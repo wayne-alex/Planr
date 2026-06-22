@@ -70,7 +70,7 @@ ProjectManagementSystem/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wayne-alex/Project-Managment-System.git
    cd ProjectManagementSystem
    ```
 
